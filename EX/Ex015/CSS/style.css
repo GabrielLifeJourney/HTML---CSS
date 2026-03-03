@@ -1,0 +1,21 @@
+body{
+    background-color: wheat;
+    font-family: Arial;
+}
+h1{
+    color: white;
+    font-size: 25px;
+    background-color: #16f7f7;
+    text-decoration: underline;
+}
+h2{
+    font-size: 20px ;
+}
+p{
+    font-size: 15px;
+}
+blockquote{
+    background-color: rgb(42, 230, 42);
+    color: rgb(39, 48, 48);
+    font-size: 15px;
+}

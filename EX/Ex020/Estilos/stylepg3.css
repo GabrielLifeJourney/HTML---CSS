@@ -1,0 +1,30 @@
+a{
+    color: #5674FF;
+    text-decoration: none;
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    color: black;
+    text-decoration: underline;
+}
+a:active{
+    color:lime
+}
+.especial{
+    background-color: #F2F2F2;
+    padding: 0.2em;
+    border-radius: 1em;
+}
+.especial::before{
+    content: '→ ';
+}
+.especial::after {
+    content: '←';
+}
+
+ul > li {
+        margin: 5px 0px 5px 0px;
+
+}

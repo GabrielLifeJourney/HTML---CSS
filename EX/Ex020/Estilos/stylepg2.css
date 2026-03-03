@@ -1,0 +1,15 @@
+div:hover {
+    color: red;
+}
+div > p {
+    display: none ;
+}
+div:hover > p {
+    display: block;
+    color: #F2F2F2;
+    background-color: #0378a6b9;
+    padding: 0.5em;
+    border-radius: 1em;
+    text-align: center;
+    width: 300px;
+}
