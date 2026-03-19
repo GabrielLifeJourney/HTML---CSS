@@ -19,12 +19,13 @@ thead{
     font-weight: bolder;
     font-size: 1.2em;
 }
-tbody{
-
+tbody > tr:nth-child(2n){
+    background-color: rgba(169, 169, 169, 0.63);
 }
 tfoot{
-    background-color: rgba(169, 169, 169, 0.63);
+    background-color: darkgray;
     font-weight: bolder;
+    font-size: 1.1em;
 }
 th{
 
@@ -33,7 +34,7 @@ tr{
 
 }
 td{
-    padding: 2px;
+    padding: 4px ;
     vertical-align: middle;
 }
 td.num{
