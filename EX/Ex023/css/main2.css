@@ -12,12 +12,21 @@ caption{
     border: 1px solid black;
     padding: 2vw;
     font-size: 2em;
+
 }
+
 thead{
     font-family: var(--font01);
     background-color: rgba(0, 255, 255, 0.384);
     font-weight: bolder;
     font-size: 1.2em;
+
+}
+thead > tr > th{
+    position: sticky;
+    top:-1px;
+    background-color: rgb(0, 255, 255);
+
 }
 tbody > tr:nth-child(odd){ /*(2n-1)*/
     background-color: rgba(255, 255, 255, 0.699);
