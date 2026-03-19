@@ -1,0 +1,21 @@
+table{  /*completa*/
+    width: 400px;
+    border: 1px dashed black;
+    border-collapse: separate;
+    padding: 1.2vw;
+}
+table tr { /*linha ->*/
+    border: 1px  black;
+}
+table td { /*colunas =*/
+    border: 1px solid black;
+    padding: 8px;
+    vertical-align: middle; /*Alinhamento Vertical*/
+}
+table .linha {
+    background-color: darkgray;
+    text-align: center; /*Alinhamento horizontal*/
+}
+table .dado{
+    background-color: rgba(50, 50, 185, 0.637);
+}
