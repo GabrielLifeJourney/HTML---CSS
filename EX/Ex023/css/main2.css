@@ -19,10 +19,10 @@ thead{
     font-weight: bolder;
     font-size: 1.2em;
 }
-tbody > tr:nth-child(odd){
+tbody > tr:nth-child(odd){ /*(2n-1)*/
     background-color: rgba(255, 255, 255, 0.699);
 }
-tbody > tr:nth-child(even){
+tbody > tr:nth-child(even){ /*(2n)*/
     background-color: rgba(169, 169, 169, 0.63);
 }
 tfoot{
