@@ -27,4 +27,22 @@ p{
     font-family: var(--font02);
     font-size: 1.59em;
     text-align: justify;
+    text-indent: 0.7em;
+}
+
+aside{
+    margin: auto;
+    margin-top: 3vh;
+    padding: 0.5em 1em;
+    width: 560px;
+    border-radius: 0.5em;
+    background-color: rgba(0, 0, 0, 0.877);
+    color: white;
+}
+aside h1{
+    font-size: 2em;
+    background-color: white;
+    color: black;
+    padding: 0.5em;
+    border-radius:0.5em;
 }
