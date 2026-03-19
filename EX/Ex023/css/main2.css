@@ -1,0 +1,41 @@
+table{
+    margin: auto;
+    
+    width: 600px;
+    text-align: center;
+    border-collapse: collapse;
+}
+td, th {
+    border: 1px solid black;
+}
+caption{
+    border: 1px solid black;
+    padding: 2vw;
+    font-size: 2em;
+}
+thead{
+    font-family: var(--font01);
+    background-color: rgba(0, 255, 255, 0.384);
+    font-weight: bolder;
+    font-size: 1.2em;
+}
+tbody{
+
+}
+tfoot{
+    background-color: rgba(169, 169, 169, 0.63);
+    font-weight: bolder;
+}
+th{
+
+}
+tr{
+
+}
+td{
+    padding: 2px;
+    vertical-align: middle;
+}
+td.num{
+    text-align: right;
+}
