@@ -1,0 +1,23 @@
+table{
+    margin: auto;
+
+    width: 600px;
+    border-collapse: collapse;
+    text-align: center; 
+    vertical-align: middle;
+}
+caption,td, th{
+    border: 1px solid black;
+}
+caption{
+    font-size: 1.5em;
+    padding: 1vw;
+    font-weight: bolder;
+}
+td{
+     padding: 0.6em 1em;
+}
+
+div#container{
+    overflow-x: auto;
+}
