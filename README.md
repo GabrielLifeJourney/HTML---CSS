@@ -2,7 +2,53 @@
 Curso de HTML5 e CSS3 do CursoemVideo
 Estou aprendendo a criar sites e gerenciar meu repositorio.
 
-<h1>Visualizar Exercicios ! </h1>
+<h1>Acesse os Exercícios</h1>
 <hr>
-Visualizar Tabelas Ex023 <a href="https://gabriellifejourney.github.io/HTML---CSS/EX/Ex023/index2.html">Click Aqui</a> <br>
+<p>➡️ Ver Exercício <a href="#">Ex001</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex002</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex003</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex004</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex005</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex006</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex007</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex008</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex009</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex010</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex011</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex012</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex013</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex014</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex015</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex016</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex017</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex018</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex019</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex020</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex021</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício <a href="#">Ex022</a></p> <br>
+<hr>
+<p>➡️ Ver Exercício<a href="https://gabriellifejourney.github.io/HTML---CSS/EX/Ex023/index2.html">Ex023</a> <br></p>
+<hr>
+
 <hr>
