@@ -16,7 +16,4 @@ html, body{
 h1 {
     text-align: center;
     text-shadow: 2.3px 2.3px 0 #101c78;
-    padding: 16px;
-    border: 2px solid black;
-    border-radius: 25px;
 }
