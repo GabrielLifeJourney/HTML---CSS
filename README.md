@@ -56,5 +56,5 @@ Estou aprendendo a criar sites e gerenciar meu repositorio.
 <hr>
 <p>➡️ Ver Exercício <a href="https://gabriellifejourney.github.io/HTML---CSS/EX/Ex025/formulario03.html">Ex025</a></p>
 <hr>
-<p>➡️ Ver Exercício <a href="https://gabriellifejourney.github.io/HTML---CSS/EX/Ex026/mq02.html/index.html">Ex026</a></p>
+<p>➡️ Ver Exercício <a href="https://gabriellifejourney.github.io/HTML---CSS/EX/Ex026/mq01.html/index.html">Ex026</a></p>
 <hr>
